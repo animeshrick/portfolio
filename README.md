@@ -1,4 +1,4 @@
-# Portfolio,
+# Portfolio,😊
 ### Portfolio is a website made of Python, Django, Bootstrap, CSS, HTML, JS and all.
   
   #### The website conatains with my small bio and my experiences on subjects of languages.
